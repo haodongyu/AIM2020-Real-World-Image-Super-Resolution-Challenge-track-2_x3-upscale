@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 python main.py --model WDDet --n_resblocks 40 --n_feats 128 --res_scale 1.0 --data_test Demo --dir_demo /data/yuhaodong/AIM/results-AIM_test_X3_DownSample --scale 3 --save AIM_WDDet_X3_test_model30 --test_only --save_results --pre_train ../experiment/AIM_WDDet_x3_new/model/model_30.pt --n_GPUs 4 --chop

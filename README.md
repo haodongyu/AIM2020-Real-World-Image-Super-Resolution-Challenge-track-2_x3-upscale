@@ -50,3 +50,6 @@ We conduct all experiments on 8 TITAN RTX GPUs.
 
 --README.md: this file
 ```
+## 6 Pre_train models  
+The pre trained model you can find here:  
+https://drive.google.com/file/d/1dNBXH7DNx5jXHoTz17Gs9zUT5G6ienBu/view?usp=sharing
